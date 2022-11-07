@@ -21,66 +21,65 @@ en: &DEFAULT_EN
     text: "Product"
     section: services
     list:
-      - title: "1080P+H265"
-        desc: "Combine 1080P and H265，Low bandwidth, High resolution, stable watch with no lagging."
+      - title: "Quard Core + 4GB RAM"
+        desc: "ARM Quad Core with 4GB RAM and 32GB or 64GB storage."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Fast and Smooth Switch"
         desc: "Smart Category, swift response, easy operation, no buffering during switch."
         icon: fas fa-laptop
-      - title: "7 Days Rewind"
-        desc: "Rewind function for all channels, 7 days together with EPG funciton."
+      - title: "30 Days Rewind"
+        desc: "Rewind function for all channels, 30 days together with EPG funciton."
         icon: fab fa-markdown
       - title: "Large selection of VOD embedded"
         desc: "40000+ Movies, TV Show, Documentory, Cartoons etc. No ads, no limits, No extra fee"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Multi Platform Supported"
-        desc: "Android，iOS(iPhone & iPad)，Windows PC and Mac OS all supported"
+      - title: "1 Month VIP Included"
+        desc: "VIP service for Live TV with VOD provided"
         icon: fas fa-laptop
       - title: "7 Days free trial"
-        desc: "We provide 7 days free trial"
+        desc: "We provide 7 days free trial, with money back guaranteed"
         icon: fab fa-markdown
 
   portfolio:
     title: "Price"
-    text: "Select The Best Package for you"
+    text: "No Time Wasting on Selection, 1 Product for ALL."
     section: portfolio
     closebutton: "Close"
 
-  timeline:
-    title: "Timeline"
-    text: "Development Milestone"
-    section: timeline
+#    title: "Timeline"
+#    text: "Development Milestone"
+#    section: timeline
     # left is the default
     #start_align: "left"
-    events:
-      - title: "First Release"
-        year: "2009-2010"
-        desc: "Special device announced with High Resolution Streaming."
-        image: assets/img/timeline/1.png
-        alt:
-      - title: "Android apk release"
-        year: "2014"
-        desc: "Supports all kinds of Android Devices"
-        image: assets/img/timeline/2.png
-        alt:
-      - title: "iOS app on App Store"
-        year: "2019"
-        desc: "iOS app with 7 days rewind function available on App Store for iPhone & iPad"
-        image: assets/img/timeline/3.png
-        alt:
-      - title: "Windows/Mac Supported"
-        year: "2021"
-        desc: "Windows PC msi file and Mac OS dmg package released"
-        image: assets/img/timeline/4.png
-        alt:
+#    events:
+#      - title: "First Release"
+#        year: "2009-2010"
+#        desc: "Special device announced with High Resolution Streaming."
+#        image: assets/img/timeline/1.png
+#        alt:
+#      - title: "Android apk release"
+#        year: "2014"
+#        desc: "Supports all kinds of Android Devices"
+#        image: assets/img/timeline/2.png
+#        alt:
+#      - title: "iOS app on App Store"
+#        year: "2019"
+#        desc: "iOS app with 7 days rewind function available on App Store for iPhone & iPad"
+#        image: assets/img/timeline/3.png
+#        alt:
+#      - title: "Windows/Mac Supported"
+#        year: "2021"
+#        desc: "Windows PC msi file and Mac OS dmg package released"
+#        image: assets/img/timeline/4.png
+#        alt:
         # you can enforce the alignment
-        align: right
-    end: "Subscribe <br> to <br> ENJOY!"
+#        align: right
+#    end: "Subscribe <br> to <br> ENJOY!"
 
   about:
     title: "About Us"
-    text: "Best Supplier in IPTV Market"
-    body: "399 international live TV channels. Full program guide. 7 days palyback. Compatible with Android/ iOS/ Windows/ Mac system. One account streams on multiple devices!"
+    text: "Most Powerful TV Box in Market"
+    body: "64 bit ARM Quad Core, 4GB RAM with 32GB or 64GB storage, 4K video fully supported, 1 Month VIP service included (Live TV and VOD)"
     section: about
 
   clients:
