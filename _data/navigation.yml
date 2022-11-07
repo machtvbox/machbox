@@ -12,23 +12,17 @@
 en: &DEFAULT_EN
   nav:
     - title: "HOME"
-      url: https://www.hditv.app
+      url: https://www.machtvbox.com
     - title: "Product"
-      url: https://www.hditv.app/#services
+      url: https://www.machtvbox.com/#services
     - title: "Price"
-      url: https://www.hditv.app/#portfolio
+      url: https://www.machtvbox.comp/#portfolio
     - title: "About"
-      url: https://www.hditv.app/#about
-    - title: "Timeline"
-      url: https://www.hditv.app/#timeline
-    - title: "Free Trial"
-      url: https://www.hditv.app/#team
-    - title: "Download"
-      url: https://www.hditv.app/#clients
+      url: https://www.machtvbox.com/#about
+    - title: "VIP"
+      url: https://www.machtvbox.com/#team
     - title: "Contact"
-      url: https://www.hditv.app/#contact
-    - title: "Channels"
-      url: https://www.hditv.app/channel-list
+      url: https://www.machtvbox.com/#contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:
