@@ -29,7 +29,7 @@ locale: "en-US"
 #locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google:  G-GK7MG2LMNK #Google Analytics tracking code here
+  google:  G-9V88RSJ02V #Google Analytics tracking code here
 
 collections:
   portfolio:
@@ -38,7 +38,7 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-formspree_form_path: "f/mknypaap"
+formspree_form_path: "f/mvoydgrj"
 
 plugins:
   - jekyll-remote-them
