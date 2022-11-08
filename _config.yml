@@ -41,5 +41,5 @@ markdown: kramdown
 formspree_form_path: "f/mvoydgrj"
 
 plugins:
-  - jekyll-remote-them
+  - jekyll-remote-theme
   - jekyll-sitemap
