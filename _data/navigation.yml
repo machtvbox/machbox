@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Product"
       url: https://www.machtvbox.com/#services
     - title: "Price"
-      url: https://www.machtvbox.comp/#portfolio
+      url: https://www.machtvbox.com/#portfolio
     - title: "About"
       url: https://www.machtvbox.com/#about
     - title: "VIP"
